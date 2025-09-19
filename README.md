@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayushbansal2407" target="blank"><img src="https://img.shields.io/twitter/follow/ayushbansal2407?logo=twitter&style=for-the-badge" alt="ayushbansal2407" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently building **Bitcoin**
 
-- 💬 Ask me about **reactJs , Js**
+- 💬 Ask me about **Blockchain, Rust, reactJs, Js**
 
-- 📫 How to reach me **bansalayush24704@gmail.com**
+- 📫 How to reach me **work.ayushbansal07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
