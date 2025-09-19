@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🔨 Building **Bitcoin infrastructure** → Multi-upstream pool support @ [Demand Pool](https://github.com/demand-open-source)
+- 🔨 Building **Bitcoin infrastructure** → Contributor @ [Demand Pool](https://github.com/demand-open-source)
 - 🧑‍💻 Passionate about **Rust, Zero-Knowledge Proofs, Distributed Systems**
 - 🏆 **5× Hackathon Winner**
   - [ZKCertify](https://devfolio.co/projects/zkcertify-13c9) – Zero-knowledge credentials
@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bansalayush247&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://streak-stats.demolab.com/?user=bansalayush247&theme=radical" alt="streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bansalayush247&theme=radical" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush247&layout=compact&theme=radical" alt="langs"/>
 </p>
 
