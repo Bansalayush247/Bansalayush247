@@ -57,9 +57,13 @@
 
 ---
 
-### ☕ Support My Work
-<p align="center">
-  <a href="bitcoin:bc1qf5qk6qj337n0m7xnyf9arepejfaqyyjk0gdv7f?label=Ayush%20Bansal%20Donation">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Sat-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Buy Me a Sat">
-  </a>
-</p>
+### ⚡ Support My Work 
+<div align="center">
+  <p>Scan with a mobile wallet to send Sats</p>
+  <img 
+    src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=bitcoin:bc1qf5qk6qj337n0m7xnyf9arepejfaqyyjk0gdv7f?label=Ayush%20Bansal%20Donation" 
+    alt="Bitcoin Donation QR Code" 
+  />
+  <p>For desktop wallets, <a href="bitcoin:bc1qf5qk6qj337n0m7xnyf9arepejfaqyyjk0gdv7f?label=Ayush%20Bansal%20Donation">click here</a> or copy the address:</p>
+  <code>bc1qf5qk6qj337n0m7xnyf9arepejfaqyyjk0gdv7f</code>
+</div>
